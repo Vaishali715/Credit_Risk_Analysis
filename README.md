@@ -7,23 +7,23 @@ Credit risk is very tough to predict. In this project we want to take a look at 
 
 ![Image](https://github.com/Vaishali715/Credit_Risk_Analysis/blob/main/Resources/naive_random_oversampling.png)
 
-SMOTE oversampling results: the accuracy score is 65.3%, the precision for the high_risk loans has a low positvity again at 1% and recall is 68% overall
+* SMOTE oversampling results: the accuracy score is 65.3%, the precision for the high_risk loans has a low positvity again at 1% and recall is 68% overall
 
 ![Image](https://github.com/Vaishali715/Credit_Risk_Analysis/blob/main/Resources/Smote_oversampling.png)
 
-Undersampling results: balanced accuracy score is 65.3% overall, the precision is at 99% and the recall is 40%
+* Undersampling results: balanced accuracy score is 65.3% overall, the precision is at 99% and the recall is 40%
 
 ![Image](https://github.com/Vaishali715/Credit_Risk_Analysis/blob/main/Resources/Smote_undersampling.png)
 
-Combination(over and undersampling) results: balanced accuracy score is 54.4% the precision is 99% and the recall is 57% overall
+* Combination(over and undersampling) results: balanced accuracy score is 54.4% the precision is 99% and the recall is 57% overall
 
 ![Image](https://github.com/Vaishali715/Credit_Risk_Analysis/blob/main/Resources/Combination_under_over_sampling.png)
 
-Balanced Random Forest Classifier results: the accuracy score is 77.2% the precision is 99% and the recall is 88%
+* Balanced Random Forest Classifier results: the accuracy score is 77.2% the precision is 99% and the recall is 88%
 
 ![Image](https://github.com/Vaishali715/Credit_Risk_Analysis/blob/main/Resources/Balanced_random_classifier.png)
 
-Easy Ensemble AdaBoost Classifier results: the accuracy score is 91.7% the precision is 99% and the recall is 94%
+* Easy Ensemble AdaBoost Classifier results: the accuracy score is 91.7% the precision is 99% and the recall is 94%
 
 ![Image](https://github.com/Vaishali715/Credit_Risk_Analysis/blob/main/Resources/Ensemble_adaboost_classifier.png)
 
